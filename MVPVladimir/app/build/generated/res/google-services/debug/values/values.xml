@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">70130334453-065f3rp4ujv1arl8f3fah036n09k60n9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fragmentivladimir-bd80c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">70130334453</string>
+    <string name="google_api_key" translatable="false">AIzaSyAXVv2dwzyJIWzkOGcIQCAsJBSqOHfyoRY</string>
+    <string name="google_app_id" translatable="false">1:70130334453:android:9cff6dedf9a4a754</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAXVv2dwzyJIWzkOGcIQCAsJBSqOHfyoRY</string>
+    <string name="google_storage_bucket" translatable="false">fragmentivladimir-bd80c.appspot.com</string>
+    <string name="project_id" translatable="false">fragmentivladimir-bd80c</string>
+</resources>
